@@ -1,8 +1,12 @@
 
 
-Team Members and Roles:  
+## Team Members and Roles
 
-Application Overview: 
+- **Mark Lewis** — Set up the shared GitHub repository and drafts the README overview. For the game, Mark handles the opening and inland scenes, including the choices that lead to the spiritual guide and community leader endings.
+- **Adair Ezekial Barrios-Perez** — Reviews the story flowchart and checks that all three endings are reachable. For the game, they handle the beach and rescue scenes, including the clue, beacon code, and what happens when the player enters an incorrect code.
+- **Both team members** — Write their assigned scenes, contribute code on separate branches, review each other’s pull requests, and test all three endings before submission.
+
+## Application Overview: 
 
 ## Story Flowchart
 

@@ -8,6 +8,15 @@
 
 ## Application Overview: 
 
+**Story & Concept**
+Our game is a text-based interactive survival adventure set on a remote island after a plane crash. You wake up on the beach and have to decide whether to explore inland or stick to the coastline to look for a way off the island. Depending on the choices you make, the story leads to one of three different endings: becoming a **Spiritual Guide** for the island community, stepping up as a **Community Leader**, or finding and activating a rescue beacon to get **Rescued**.
+
+**Gameplay & Mechanics**
+- **Branching Choices:** Players move through 13 connected scenes by clicking buttons to make decisions at each step (like searching inland vs. searching the beach, building a shelter, or waiting by the shore).
+- **Clue & Code Puzzle:** On the beach route, players search the wreckage for an emergency kit, build a shelter, and find a four-character code card needed to operate a distress beacon downshore.
+- **Code Input & Retry Loop:** When you reach the beacon, you have to enter the four-character code. If you enter the wrong code or don't have it yet, the game lets you try again or head back to look for the clue. Entering the right code sends out the distress signal and unlocks the Rescue ending.
+- **Replayability:** At the end of any path, players can restart from the beginning to try different choices and see all three endings.
+
 ## Story Flowchart
 
 ```mermaid
